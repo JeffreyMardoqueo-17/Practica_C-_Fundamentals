@@ -12,3 +12,4 @@ C:\Users\Eduardo\practicarSintaxis\obj\Debug\net8.0\refint\practicarSintaxis.dll
 C:\Users\Eduardo\practicarSintaxis\obj\Debug\net8.0\practicarSintaxis.pdb
 C:\Users\Eduardo\practicarSintaxis\obj\Debug\net8.0\practicarSintaxis.genruntimeconfig.cache
 C:\Users\Eduardo\practicarSintaxis\obj\Debug\net8.0\ref\practicarSintaxis.dll
+C:\Users\Eduardo\practicarSintaxis\obj\Debug\net8.0\practicarSintaxis.sourcelink.json
